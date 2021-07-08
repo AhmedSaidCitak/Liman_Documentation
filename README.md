@@ -7,3 +7,5 @@ It is created to cover following details:
 - How to set up **samba package** with the help of **samba-hvl extension**
 - How to create a **domain**
 - How to **migrate** another server into domain
+
+**Ahmed Said Çıtak - Intern at HAVELSAN - 2021**

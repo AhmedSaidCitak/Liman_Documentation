@@ -2,13 +2,13 @@
 
 1. Liman arayüzündeki **Sunucular** kısmına geliyoruz.
 
-   <img src="assets/Sunucu_Ekle_1.png">
+   <img src="/assets/Sunucu_Ekle_1.png">
 
    
 
 2. Burada bulunan **Sunucu Ekle** Butonuna basıyoruz.
 
-   <img src="assets/Sunucu_Ekle_2.png">
+   <img src="/assets/Sunucu_Ekle_2.png">
 
    
 
@@ -18,7 +18,7 @@
 
 5. **Sunucuya başarıyla erişim sağlandı** uyarısını aldıktan sonra sıradaki tab ile devam edebiliriz.
 
-   <img src="assets/Sunucu_Ekle_3.png">
+   <img src="/assets/Sunucu_Ekle_3.png">
 
    
 
@@ -30,7 +30,7 @@
 
 9. **İsim Onaylandı** uyarısını aldıktan sonra sıradaki tab ile devam edebiliriz.
 
-   <img src="assets/Sunucu_Ekle_4.png">
+   <img src="/assets/Sunucu_Ekle_4.png">
 
    
 
@@ -42,7 +42,7 @@
 
 13. **Anahtarı onayla** butonuna bastıktan sonra **Anahtarınız doğrulandı** uyarısını aldıktan sonra **Özet** tabına geçebiliriz.
 
-    <img src="assets/Sunucu_Ekle_5.png">
+    <img src="/assets/Sunucu_Ekle_5.png">
 
     
 
@@ -50,24 +50,24 @@
 
 15. Eğer herhangi bir sıkıntı yoksa **Sunucu Ekle** butonu ile sunucumuzu limana ekleyebiliriz.
 
-    <img src="assets/Sunucu_Ekle_6.png">
+    <img src="/assets/Sunucu_Ekle_6.png">
 
     
 
 16. Sunucumuzu limana eklediğimizde karşımıza aşağıdaki resimde de görüldüğü gibi bir ekran gelmeli. Bu ekranda sunucu yönetimi ile ilgili istediğimiz özelliklere ve bilgilere erişebiliriz.
 
-    <img src="assets/Sunucu_Ekle_7.png">
+    <img src="/assets/Sunucu_Ekle_7.png">
 
     
 
 17. Liman menüsünden **Tüm Sunucuları Gör** seçeneğini seçtiğimizde, sunucumuzun tabloda listelendiğini görebiliriz.
 
-    <img src="assets/Sunucu_Ekle_8.png">
+    <img src="/assets/Sunucu_Ekle_8.png">
 
     
 
 18. Ek olarak liman **menüsünde** eklediğiniz sunucuyu da görüntüleyebilirsiniz.
 
-    <img src="assets/Sunucu_Ekle_9.png">
+    <img src="/assets/Sunucu_Ekle_9.png">
 
     

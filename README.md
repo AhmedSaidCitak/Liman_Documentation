@@ -13,5 +13,8 @@ It is created to cover following details:
 - How to change Domain Settings
 - How to get to know about Samba and Domain
 - Listing and Creating Users, Groups and Computers in Domain
+- How to manage FSMO roles
+- How to manage Replication process
+- How to manage Site list
 
 **Ahmed Said Çıtak - Intern at HAVELSAN - 2021**

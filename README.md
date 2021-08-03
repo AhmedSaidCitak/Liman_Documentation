@@ -10,5 +10,6 @@ It is created to cover following details:
 - How to activate **samba-hvl extension** to **Samba server**
   - via Extension Market
   - via Uploading
+- How to change Domain Settings
 
 **Ahmed Said Çıtak - Intern at HAVELSAN - 2021**

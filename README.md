@@ -11,5 +11,6 @@ It is created to cover following details:
   - via Extension Market
   - via Uploading
 - How to change Domain Settings
+- How to get to know about Samba and Domain
 
 **Ahmed Said Çıtak - Intern at HAVELSAN - 2021**

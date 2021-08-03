@@ -12,5 +12,6 @@ It is created to cover following details:
   - via Uploading
 - How to change Domain Settings
 - How to get to know about Samba and Domain
+- Listing and Creating Users, Groups and Computers in Domain
 
 **Ahmed Said Çıtak - Intern at HAVELSAN - 2021**
